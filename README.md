@@ -1,4 +1,5 @@
 Extension de carte 
+
 Ce projet est une extension de carte qui affiche différentes images avec des titres associés. L'utilisateur peut cliquer sur une image pour mettre en évidence la carte sélectionnée.
 
 Fonctionnalités 
